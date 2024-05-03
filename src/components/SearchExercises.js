@@ -2,6 +2,7 @@ import React, { useEffect, useState} from 'react'
 import { Box, Button, Stack, TextField, Typography} from '@mui/material';
 
 const SearchExercises = () => {
+  const [search,setSearch] = useState('');
   return (
     <Stack alignItems="center" mt="37px"
     justifyContent="center" p="20px"
