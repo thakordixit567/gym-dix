@@ -1,4 +1,4 @@
-import { Box, Typography } from "@mui/material";
+import { Box,  Typography } from "@mui/material";
 import React,{useContext} from "react";
 import BodyPart from "./BodyPart";
 import { ScrollMenu, VisibilityContext } from "react-horizontal-scrolling-menu";
