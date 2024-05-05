@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Jersey+25&family=Outfit:wght@100..900&family=Permanent+Marker&family=Poetsen+One&family=Rubik+Scribble&display=swap');
+
 body {
     font-family: 'Josefin Sans';
-    background-color: #FF7F7F;
+ 
+    background: linear-gradient(#868f96 , #596164);
+    
   }
   
   * {
@@ -55,10 +59,10 @@ body {
   
   .hero-banner-img {
     position: absolute;
-    right: -80px;
+    right: 110px;
     top: 0px;
-    width: 650px;
-    height: 950px;
+    width: 550px;
+    height: 750px;
     margin-top: -350px;
   
   }
@@ -87,9 +91,16 @@ body {
     transition: 0.3s all ease-in-out;
   }
   
+  
+
   .exercise-card:hover,
   .bodyPart-card:hover {
     transform: scale(1.1, 1.1);
+   
+  }
+
+  .font-ghj {
+     font-family: 'Poetsen One',sans-serif;
   }
   
   .search-btn:hover {

@@ -50,7 +50,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
       <Stack sx={{ mt: { lg: '114px', xs: '70px' } }} alignItems="center">
         {exercises.length > 9 && (
           <Pagination
-            color="standard"
+            color="primary"
             shape="rounded"
             defaultPage={1}
             count={Math.ceil(exercises.length / exercisesPerPage)}
