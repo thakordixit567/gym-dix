@@ -61,11 +61,12 @@ body {
   
   .hero-banner-img {
     position: absolute;
-    right: 110px;
+    right: -90px;
     top: 0px;
-    width: 600px;
-    height: 770px;
-    margin-top: -350px;
+    width: 900px;
+    height: 600px;
+    margin-top: -335px;
+    border-radius: 10%;
   
   }
   
