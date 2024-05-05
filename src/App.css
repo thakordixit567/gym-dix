@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Jersey+25&family=Outfit:wght@100..900&family=Permanent+Marker&family=Poetsen+One&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Jersey+25&family=Orbitron:wght@400..900&family=Outfit:wght@100..900&family=Permanent+Marker&family=Poetsen+One&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10+Charted&family=Jersey+25&family=Merienda:wght@300..900&family=Orbitron:wght@400..900&family=Outfit:wght@100..900&family=Permanent+Marker&family=Poetsen+One&family=Rubik+Scribble&display=swap');
 
 body {
     font-family: 'Josefin Sans';
@@ -61,8 +63,8 @@ body {
     position: absolute;
     right: 110px;
     top: 0px;
-    width: 550px;
-    height: 750px;
+    width: 600px;
+    height: 600px;
     margin-top: -350px;
   
   }
