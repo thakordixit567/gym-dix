@@ -5,7 +5,7 @@ Gym Exercises Shown Web App
 Using React Js, Rapid Api
 ---------------------
 
-DEMO ---->   https://dix-gym.netlify.app/
+DEMO ---->  https://gym-dix.vercel.app/
 ---------------------
 
 ![image](https://github.com/thakordixit567/gym-dix/blob/master/src/assets/demo/Screenshot%202024-05-05%20224020.png)
